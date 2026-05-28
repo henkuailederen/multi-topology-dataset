@@ -1,0 +1,53 @@
+{
+  "total_samples": 20350,
+  "total_size_bytes": 5018677356,
+  "splits": {
+    "TestData": 3058,
+    "TrainData": 14242,
+    "ValData": 3050
+  },
+  "topologies": {
+    "Mask_3P6P_V1": 3695,
+    "Mask_3P6P_V2": 2784,
+    "Mask_HB_V1": 960,
+    "Mask_HB_V2": 2976,
+    "Mask_HB_V3-0": 4896,
+    "Mask_HB_V3-1": 3215,
+    "Mask_HB_V3-2": 1824
+  },
+  "topology_instances": {
+    "Mask_3P6P_V1": 4,
+    "Mask_3P6P_V2": 4,
+    "Mask_HB_V1": 2,
+    "Mask_HB_V2": 4,
+    "Mask_HB_V3-0": 6,
+    "Mask_HB_V3-1": 4,
+    "Mask_HB_V3-2": 2
+  },
+  "unique_layout_ids": {
+    "Mask_3P6P_V1": 77,
+    "Mask_3P6P_V2": 58,
+    "Mask_HB_V1": 20,
+    "Mask_HB_V2": 62,
+    "Mask_HB_V3-0": 102,
+    "Mask_HB_V3-1": 67,
+    "Mask_HB_V3-2": 38
+  },
+  "Pigbt_values": [
+    150,
+    250,
+    350,
+    450
+  ],
+  "Pfwd_values": [
+    100,
+    150,
+    200
+  ],
+  "h_values": [
+    2000,
+    4000,
+    6000,
+    8000
+  ]
+}

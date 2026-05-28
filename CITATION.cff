@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the accompanying paper and this repository."
+title: "Multi-topology Power Module Thermal Simulation Dataset"
+type: dataset
+authors:
+  - family-names: Ke
+    given-names: Ruiting
+    email: creating1129@sjtu.edu.cn
+  - family-names: Tao
+    given-names: Jianfeng
+  - family-names: Liu
+    given-names: Chengliang
+version: "1.0.0"
+date-released: "2026-05-28"
+repository-code: "https://github.com/henkuailederen/Multi-topology-Dataset"
+keywords:
+  - power module
+  - thermal estimation
+  - surrogate model
+  - finite element simulation
+  - HDF5
+  - multi-topology
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "A Multi-modal Surrogate Model for Multi-topology Thermal Estimation in Power Modules"
+  authors:
+    - family-names: Ke
+      given-names: Ruiting
+    - family-names: Tao
+      given-names: Jianfeng
+    - family-names: Liu
+      given-names: Chengliang
+  journal: "IEEE Transactions on Power Electronics"
