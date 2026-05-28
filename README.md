@@ -60,12 +60,6 @@ Label meaning:
 | `Pfwd` | Encoded freewheeling-diode chip power-loss setting. |
 | `h` | Convective heat-transfer coefficient setting. The HDF5 attribute `h_normalized` equals `h / 10000`. |
 
-Available operating-condition labels are:
-
-- `Pigbt`: `150`, `250`, `350`, `450`
-- `Pfwd`: `100`, `150`, `200`
-- `h`: `2000`, `4000`, `6000`, `8000`
-
 The files present in the repository define the valid samples. Do not assume that every layout id has every possible operating-condition combination.
 
 ## Dataset Statistics
